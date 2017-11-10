@@ -1,0 +1,23 @@
+{
+  "name": "jin-in",
+  "version": "0.0.0",
+  "description": "jin-in",
+  "main": "./index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nithinartham/Jin-in.git"
+  },
+  "author": "nithin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nithinartham/Jin-in/issues"
+  },
+  "homepage": "https://github.com/nithinartham/Jin-in#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
